@@ -5,6 +5,3 @@ phases:
     commands:
       - echo Installing Modules...
       - npm install
-artifacts:
-  files:
-    - '**/*'
